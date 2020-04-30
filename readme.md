@@ -1,0 +1,1 @@
+nc -w0 -u localhost 5140 <<< "testing again from my home machine"
